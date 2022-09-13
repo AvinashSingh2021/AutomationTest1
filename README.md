@@ -1,5 +1,3 @@
-# AutomationTest1
-
 Files:
 src/test/resources/features/TestFeature.feature - Covered the test scenario in the Feature File
 src/test/java/steps/StepDefs.java - Step defined from Feature File
